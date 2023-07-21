@@ -1,3 +1,5 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "stackProgrammingLanguageKEY": "python",
+  "stackProgrammingLanguageVersionNumberKEY": "3.8.10"
 }

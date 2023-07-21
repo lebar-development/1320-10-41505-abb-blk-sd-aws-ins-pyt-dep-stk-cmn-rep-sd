@@ -1,3 +1,10 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "aliasNameKEY": "none",
+  "resourceNameKEY": "sambar-1320-10-ctr-sd",
+  "cfqridKEY": "1320-10-11855-mjr-ctr-sd-aws",
+  "accessTypeKEY": "none",
+  "stackNameKEY": "1320-10-11855-mjr-ctr-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+  "deploymentOrderNumber11800KEY": "11855",
+  "deletionProtectionFlag11800KEY": "none"
 }
