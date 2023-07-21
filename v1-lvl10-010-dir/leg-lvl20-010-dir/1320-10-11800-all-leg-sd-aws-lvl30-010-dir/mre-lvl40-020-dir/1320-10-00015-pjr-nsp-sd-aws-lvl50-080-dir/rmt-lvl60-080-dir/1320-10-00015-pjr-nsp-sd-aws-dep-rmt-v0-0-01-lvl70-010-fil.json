@@ -1,3 +1,10 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "aliasNameKEY": "none",
+  "resourceNameKEY": "default",
+  "cfqridKEY": "1320-10-00015-pjr-nsp-sd-aws",
+  "accessTypeKEY": "none",
+  "stackNameKEY": "1320-10-00015-pjr-nsp-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+  "deploymentOrderNumber11800KEY": "00015",
+  "deletionProtectionFlag11800KEY": "none"
 }
