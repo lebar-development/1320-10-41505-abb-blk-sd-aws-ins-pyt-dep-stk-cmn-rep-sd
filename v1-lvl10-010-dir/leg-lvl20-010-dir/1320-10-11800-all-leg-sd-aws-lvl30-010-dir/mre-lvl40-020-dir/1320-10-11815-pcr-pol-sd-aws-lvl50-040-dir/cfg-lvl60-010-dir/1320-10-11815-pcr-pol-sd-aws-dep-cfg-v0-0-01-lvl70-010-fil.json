@@ -1,3 +1,28 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "resourceRoleNameKEY": "sambar-eks-service-1320-10-rol-sd",
+  "resourceDescriptionKEY": "This Policy is attached to the sambar-eks-service-1320-10-rol-sd IAM Role which supports EKS Cluster to run.",
+  "resourceStatementStructureKEY": {
+    "Version": "2012-10-17",
+    "Statement": [
+      {
+        "Action": [
+          "cloudwatch:PutMetricData"
+        ],
+        "Resource": "*",
+        "Effect": "Allow"
+      }
+    ]
+  },
+  "resourceTagKEY": {
+    "aliasNameKEY": "none",
+    "botNameKEY": "botname",
+    "ifqridKEY": "1320-10-11815-pcr-pol-sd-aws",
+    "resourceTypeKEY": "pol",
+    "blockNumberKEY": "1320-10",
+    "applicationNameKEY": "sambar",
+    "environmentIDKEY": "sd",
+    "regionCodeKEY": "eu-west-2",
+    "deploymentTypeKEY": "sdk"
+  }
 }

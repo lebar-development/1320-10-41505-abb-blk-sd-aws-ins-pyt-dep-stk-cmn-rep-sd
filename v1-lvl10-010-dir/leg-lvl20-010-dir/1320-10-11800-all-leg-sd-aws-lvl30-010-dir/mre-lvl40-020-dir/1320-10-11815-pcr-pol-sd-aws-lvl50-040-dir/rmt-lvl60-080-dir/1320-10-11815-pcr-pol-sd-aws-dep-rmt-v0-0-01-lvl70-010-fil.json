@@ -1,3 +1,10 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "aliasNameKEY": "none",
+  "resourceNameKEY": "sambar-cloud-watch-metric-1320-10-pol-sd",
+  "ifqridKEY": "1320-10-11815-pcr-pol-sd-aws",
+  "accessTypeKEY": "none",
+  "stackNameKEY": "1320-10-11815-pcr-pol-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+  "deploymentOrderNumber11800KEY": "11815",
+  "deletionProtectionFlag11800KEY": "none"
 }
