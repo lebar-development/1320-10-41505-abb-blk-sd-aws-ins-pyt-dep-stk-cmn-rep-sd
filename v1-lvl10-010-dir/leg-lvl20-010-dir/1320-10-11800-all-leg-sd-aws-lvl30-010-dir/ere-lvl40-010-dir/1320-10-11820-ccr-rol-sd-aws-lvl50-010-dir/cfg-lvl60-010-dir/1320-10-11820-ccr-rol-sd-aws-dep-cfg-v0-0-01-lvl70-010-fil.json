@@ -1,3 +1,19 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "resourcePolicy1NameKEY": "AmazonEKSClusterPolicy",
+  "resourcePolicy2NameKEY": "sambar-vpc-controller-1320-10-pol-sd",
+  "resourcePolicy3NameKEY": "sambar-elb-1320-10-pol-sd",
+  "resourcePolicy4NameKEY": "sambar-cloud-watch-metric-1320-10-pol-sd",
+  "resourceDescriptionKEY": "This IAM Role is attached to the 4 different IAM Policies which are required for an EKS Cluster to run.",
+  "resourceTagKEY": {
+    "aliasNameKEY": "none",
+    "botNameKEY": "none",
+    "cfqridKEY": "1320-10-11820-ccr-rol-sd-aws",
+    "resourceTypeKEY": "rol",
+    "blockNumberKEY": "1320-10",
+    "applicationNameKEY": "sambar",
+    "environmentIDKEY": "sd",
+    "regionCodeKEY": "eu-west-2",
+    "deploymentTypeKEY": "sdk"
+  }
 }
