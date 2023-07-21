@@ -1,3 +1,10 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "aliasNameKEY": "none",
+  "resourceNameKEY": "sambar-vpc-controller-1320-10-pol-sd",
+  "ifqridKEY": "1320-10-11805-jcr-pol-sd-aws",
+  "accessTypeKEY": "none",
+  "stackNameKEY": "1320-10-11805-jcr-pol-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+  "deploymentOrderNumber11800KEY": "11805",
+  "deletionProtectionFlag11800KEY": "none"
 }
