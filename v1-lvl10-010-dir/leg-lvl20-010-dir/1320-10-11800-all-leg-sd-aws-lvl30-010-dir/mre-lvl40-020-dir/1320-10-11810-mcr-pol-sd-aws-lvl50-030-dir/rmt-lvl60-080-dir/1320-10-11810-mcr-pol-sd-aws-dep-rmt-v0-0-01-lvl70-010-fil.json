@@ -1,3 +1,10 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "aliasNameKEY": "none",
+  "resourceNameKEY": "sambar-elb-1320-10-pol-sd",
+  "ifqridKEY": "1320-10-11810-mcr-pol-sd-aws",
+  "accessTypeKEY": "none",
+  "stackNameKEY": "1320-10-11810-mcr-pol-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+  "deploymentOrderNumber11800KEY": "11810",
+  "deletionProtectionFlag11800KEY": "none"
 }
