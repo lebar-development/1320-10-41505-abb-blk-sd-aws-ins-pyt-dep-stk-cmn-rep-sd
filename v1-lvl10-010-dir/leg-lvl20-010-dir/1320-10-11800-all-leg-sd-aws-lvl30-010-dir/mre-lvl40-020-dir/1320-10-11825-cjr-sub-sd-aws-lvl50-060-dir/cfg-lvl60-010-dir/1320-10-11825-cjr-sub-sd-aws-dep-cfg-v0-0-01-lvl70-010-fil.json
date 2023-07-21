@@ -1,3 +1,18 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "resourceACLNameKEY": "sambar-1320-10-acl-sd",
+  "resourceEksClusterNameKEY": "sambar-1320-10-ctr-sd",
+  "resourceDescriptionKEY": "This subnet will be accessed by ACL and the EKS Cluster.",
+  "resourceStatementStructureKEY": "none",
+  "resourceTagKEY": {
+    "aliasNameKEY": "none",
+    "botNameKEY": "botname",
+    "cfqridKEY": "1320-10-11825-cjr-sub-sd-aws",
+    "resourceTypeKEY": "sub",
+    "blockNumberKEY": "1320-10",
+    "applicationNameKEY": "sambar",
+    "environmentIDKEY": "sd",
+    "regionCodeKEY": "eu-west-2",
+    "deploymentTypeKEY": "sdk"
+  }
 }
