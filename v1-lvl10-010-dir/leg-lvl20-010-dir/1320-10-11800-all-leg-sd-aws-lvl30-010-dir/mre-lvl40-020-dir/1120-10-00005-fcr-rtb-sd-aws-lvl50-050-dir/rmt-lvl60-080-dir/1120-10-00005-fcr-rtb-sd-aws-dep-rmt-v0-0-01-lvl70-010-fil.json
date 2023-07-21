@@ -1,3 +1,10 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "aliasNameKEY": "none",
+  "resourceNameKEY": "sambar-main-1120-10-rtb-sd",
+  "cfqridKEY": "1120-10-00005-fcr-rtb-sd-aws",
+  "accessTypeKEY": "none",
+  "stackNameKEY": "1120-10-00005-fcr-rtb-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+  "deploymentOrderNumber11800KEY": "11840",
+  "deletionProtectionFlag11800KEY": "none"
 }
