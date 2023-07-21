@@ -86,7 +86,7 @@
   "resourceTagKEY": {
     "aliasNameKEY": "none",
     "botNameKEY": "botname",
-    "cfqridKEY": "1320-10-00005-fcr-pol-sd-aws",
+    "ifqridKEY": "1320-10-00005-fcr-pol-sd-aws",
     "resourceTypeKEY": "pol",
     "blockNumberKEY": "1320-10",
     "applicationNameKEY": "sambar",
