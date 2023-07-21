@@ -1,3 +1,10 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "aliasNameKEY": "none",
+  "resourceNameKEY": "AmazonEKSClusterPolicy",
+  "ifqridKEY": "1320-10-00005-fcr-pol-sd-aws",
+  "accessTypeKEY": "none",
+  "stackNameKEY": "1320-10-00005-fcr-pol-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+  "deploymentOrderNumber11800KEY": "00005",
+  "deletionProtectionFlag11800KEY": "none"
 }

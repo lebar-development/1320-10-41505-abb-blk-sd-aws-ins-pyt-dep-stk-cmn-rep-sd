@@ -1,3 +1,6 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "baseImageIDKEY": "image-id",
+  "operatingSystemNameKEY": "ubuntu",
+  "operatingSystemVersionNumberKEY": "20.04"
 }
